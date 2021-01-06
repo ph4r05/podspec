@@ -1,0 +1,2 @@
+# podspec
+Cocoapod Repository
